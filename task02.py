@@ -3,7 +3,6 @@ from dfs import dfs
 from bfs import bfs
 from task01 import graph
 
-
 def format_graph(graph):
     formatted_graph = dict()
 

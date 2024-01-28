@@ -19,7 +19,7 @@ graph = [
     ("Eve", "Alice", {"weight": 5}),
     ("David", "Alice", {"weight": 4}),
     ("Alice", "Isabel", {"weight": 7}),
-    ("Henry", "Alice", {"weight": 12}),
+    ("Alice", "Henry", {"weight": 12}),
     ("Alice", "George", {"weight": 12}),
 ]
 
